@@ -1,0 +1,6 @@
+{
+  "name": "Skill Workshop",
+  "description": "AI Agent Skill authoring, linting, ablation evaluation, and Git marketplace governance workbench.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
